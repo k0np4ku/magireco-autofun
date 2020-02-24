@@ -37,7 +37,7 @@ $ auto <apk-file>
 
 ## Configuration
 You can find the configuration file on the application's data path.
-- **Japan version:** Android/data/jp.co.bandainamcoent.BNEI0242/files/koaConf.ini
+- **English version:** /mnt/sdcard/com.aniplex.magireco.en/koaConf.ini or /storage/emulated/0/com.aniplex.magireco.en/koaConf.ini
 
 In case you fucked up, you can delete the existing koaConf.ini and then a new configuration will be generated, or you can copy the following text:
 ```# Note
